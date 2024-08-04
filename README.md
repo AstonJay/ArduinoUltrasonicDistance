@@ -1,4 +1,4 @@
-# ArduinoUltrasonicDistance
+# Arduino Ultrasonic Distance
 Arduino (HC-SR04) Ultrasonic Sensor displays the distance on the (1602) LCD Module in cm.
 
 This is just a simple program I wrote for an Arduino Mega 2560 board with a generic ultra-sonic sensor and a 16x2 LCD display board.
